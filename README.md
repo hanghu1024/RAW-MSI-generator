@@ -13,14 +13,14 @@ External libraries and helper functions are within .py files. The main program i
 numpy 1.18.1<br>
 pandas 1.1.0<br>
 matplotlib 3.1.3<br>
-pymsfilereader 1.0.1 (Please follow this package’s instruction on github for installation)
-multiplierz    2.2.0 (Please follow this package’s instruction on github for installation)
-tqdm 4.44.1
+pymsfilereader 1.0.1 (Please follow this package’s instruction on github for installation)<br>
+multiplierz    2.2.0 (Please follow this package’s instruction on github for installation)<br>
+tqdm 4.44.1<br>
 
 ## How to use 
 ### Input Data preparation
 1. .raw/.d files:
-.raw/.d files are named with numbers with respect to the acquisition sequence. The general format is “XXX_number”. Please keep description “XXX” constant throughout the data set. For example: 
+.raw/.d files are named with numbers with respect to the acquisition sequence. The general format is “XXX_number (start from 1)”. Please keep description “XXX” constant throughout the data set. For example: 
 
 <img src="images/image2.png">
 
